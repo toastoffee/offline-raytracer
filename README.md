@@ -1,4 +1,4 @@
-# realtime-raytracer
+# offline-raytracer
 a c++11 raytracer
 
 ## Demostraion
